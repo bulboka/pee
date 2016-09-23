@@ -1,0 +1,11 @@
+body {
+  background-color: #333;
+}
+
+#pea {
+  border: 2px solid white;
+  width: 1334px;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+}
